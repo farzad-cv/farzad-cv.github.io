@@ -26,7 +26,7 @@ My favourite aspect of my job is to do the Risk Assessemnt for future projects, 
 
 
 ## 📫 Let's connect!
-- [Portfolio](https://F.Jalali.com/)
+- [Portfolio](http://portfolio.farzad.me.uk/)
 - [LinkedIn](https://www.linkedin.com/in/FarzadJalali/)
 - [Twitter](https://www.twitter.com/FarzadJalali/) 
 - [blog](https://blog.Jalali.co.uk)
