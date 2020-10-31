@@ -21,20 +21,19 @@ technologies and switch between them. In fact, That’s what I love to do!
 My favourite aspect of my job is to do the Risk Assessemnt for future projects, then strategizing to de-escalate the identified risks, e.g. if there is a lack of language or technology with in the team then I will try to learn it, I go above and beyond to make sure I can trasfer the best practice to the engineering team. finally I run workshop and make sure everyone is up to speed.
 
 ## My Key Achivement in last few years
-Lead and contribute the migration to Azure cloud and utilizing PaaS
-Adapting microservices and event-driven architecture
-Lead and implement the whole CI/CD in Azure DevOps
-Introducing TDD and automated testing.
-Implementing an MDM system as the single source of truth.
-Risk assessment before projects start
-Investigate de-escalate the identified risk by doing POC
-Run several workshops for Dev Team on-demand.
-
-○ Kubernetes, Docker, Containerization, AKS
-○ Azure DevOps
-○ Azure Function & serverless
-○ Microservices
-○ IaC
+* Lead and contribute the migration to Azure cloud and utilizing PaaS
+* Adapting microservices and event-driven architecture
+* Lead and implement the whole CI/CD in Azure DevOps
+* Introducing TDD and automated testing.
+* Implementing an MDM system as the single source of truth.
+* Risk assessment before projects start
+* Investigate de-escalate the identified risk by doing POC
+* Run several workshops for Dev Team on-demand.
+    * Kubernetes, Docker, Containerization, AKS
+    * Azure DevOps
+    * Azure Function & serverless
+    * Microservices
+    * IaC
 
 
 ## ✨ Fun Facts! 
