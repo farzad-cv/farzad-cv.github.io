@@ -22,6 +22,7 @@ My favourite aspect of my job is to do the Risk Assessemnt for future projects, 
 
 ## 🏆 My recent Key Achivements in last few years
 * Lead and contribute the migration to Azure cloud and utilizing PaaS
+* AEnterprise API Integration with ERP System (Microsoft Business central - SaaS)
 * Adapting microservices and event-driven architecture
 * Lead and implement the whole CI/CD in Azure DevOps
 * Introducing TDD and automated testing.
