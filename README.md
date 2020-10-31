@@ -3,10 +3,10 @@
 
 [![Farzad's github stats](https://github-readme-stats.vercel.app/api?username=Farzad-Jalali&&hide=stars,contribs,issues&show_icons=true&bg_color=f4f7f7&title_color=65c0ba&icon_color=ffbd39&text_color=216583)](https://github.com/Farzad-Jalali/github-readme-stats)
 
-- 💻 Currently studying - Kotlin, GitHub Actions,
-- 📚 Stack - Web Api, C#, .net framework & .net core, powershell
+- 📚 Currently studying - Kotlin, GitHub Actions,
+- 🎚 Stack - Web Api, C#, .net framework & .net core, powershell
 - 🛠 Tools -  Kubernetes, Docker, Azure, Serverless, Azure Function, Azure SQL, Service Bus, Git, GitHub, Slack, Azure DevOps, NO-SQL
-- Architecture Pattern - Microservices , Event-Driven, SOA, N-Tier
+- 🏛 Architecture Pattern - Microservices , Event-Driven, SOA, N-Tier
 - ☕ Open to anything and everything!
 
 ## 💬 About Me
@@ -17,15 +17,16 @@ My favourite aspect of my job is to do the Risk Assessemnt for future projects, 
 
 ✨ Fun Facts! 
 
-- I love to play table tennis, chess, Mortal-kombat and solving programing challenge.
-- I have one cat 🐱 which my son call it "My cat"!
+♥️ I love to play table tennis 🏓, chess ♟, Mortal-kombat🤺 and solving programing challenge👨‍💻.
+🙀🧒- I have one cat which my son call it "My cat"!
+
 
 
 
 ## 📫 Let's connect!
 - [Portfolio](https://F.Jalali.com/)
 - [LinkedIn](https://www.linkedin.com/in/FarzadJalali/)
-- [Twitter](https://www.twitter.com/FarzadJalali/)
+- [Twitter](https://www.twitter.com/FarzadJalali/) 
 - [blog](https://blog.Jalali.co.uk)
 
 ## 📄 My Articles
