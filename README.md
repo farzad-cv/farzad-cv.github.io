@@ -19,9 +19,9 @@ My favourite aspect of my job is to do the Risk Assessemnt for future projects, 
 
 ✨ Fun Facts! 
 
-♥️ I love to play table tennis 🏓, chess ♟, Mortal-kombat🤺 and solving programing challenge👨‍💻.
-🙀🧒- I have one cat which my son call it "My cat"!
-
+* ♥️ - I love to play table tennis 🏓, chess ♟, Mortal-kombat🤺 
+* 🙀🧒 - I have one cat which my son call it "My cat"!
+* - I never get tired of solving programming challenge.
 
 
 
