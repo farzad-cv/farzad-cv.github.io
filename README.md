@@ -53,6 +53,7 @@ My favourite aspect of my job is to do the Risk Assessemnt for future projects, 
 - [blog](https://blog.Jalali.co.uk)
 - [github](https://github.com/Farzad-Jalali)
 
-## 📝📑 My Articles
-- [Edit file in powershell ](https://blog.jalali.co.uk/2020/05/how-do-i-replace-some-text-inside-text.html)
+## 📝📑 My Articles & Posts
+- [Problem with installing "Cloud Foundry" CLI on MacOS!](https://blog.jalali.co.uk/2020/11/problem-with-installing-cloud-foundry.html)
+- [installing Heroku CLI on windows Subsystem for Linux](https://blog.jalali.co.uk/2020/05/installing-heroku-cli-on-windows.html)
 
